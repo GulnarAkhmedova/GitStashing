@@ -8,6 +8,8 @@ public class Main {
         Auddi.engineCapac="v8";
         Auddi .headlights="blue";
         Auddi.regNo="tuzik";
-       
+        System.out.println("welcome to my car ");
+        System.out.println("the radio is set ot 80MHZ");
+        System.out.println("Turn on the Air Conditioner ");
     }
 }
